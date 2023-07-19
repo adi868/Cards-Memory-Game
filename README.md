@@ -1,7 +1,7 @@
 # Card Memory Game
 
 ## Overview
-This is a desktop and mobile-friendly Pokémon-themed game that tests your ability and memory in tracking and choosing amongst a randomized array of images. Try as catch as many Pokémon as you can! But be careful. Don't click the same one more than once! Check it out at [Pokémon Clicky-Game](https://adi868.github.io/Deployed-Clicky/). 
+This is a desktop and mobile-friendly Pokémon-themed game that tests your ability and memory in tracking and choosing amongst a randomized array of images. Try as catch as many Pokémon as you can! But be careful. Don't click the same one more than once. Check it out at [Pokémon Clicky-Game](https://adi868.github.io/Deployed-Clicky/). 
 
 ### How To Play:
 1. On start, a random order of Pokémon will appear on the screen. 
