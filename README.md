@@ -1,4 +1,4 @@
-# Pokémon Cards Memory Game
+# Pokémon Card Memory Game
 
 ## Overview
 Hello Pokémon Masters (or masters-in-training)! Welcome to the Pokémon Clicky-Game. This is a desktop and mobile-friendly Pokémon-themed game that tests your ability and memory in tracking and choosing amongst a randomized array of images. Try as catch as many Pokémon as you can! But be careful. Don't click the same one more than once! Check it out at [Pokémon Clicky-Game](https://adi868.github.io/Deployed-Clicky/). 
